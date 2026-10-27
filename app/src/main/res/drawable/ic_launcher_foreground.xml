@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer golden wheel rim inside 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFD166"
+        android:pathData="M54,26A28,28 0 1,1 54,82A28,28 0 1,1 54,26Z" />
+    <!-- Inner wheel segments -->
+    <path
+        android:fillColor="#FF118AB2"
+        android:pathData="M54,31A23,23 0 1,1 54,77A23,23 0 1,1 54,31Z" />
+    <!-- Central star silhouette -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,35L59.5,46.2L71.8,48L62.9,56.7L65,69L54,63.2L43,69L45.1,56.7L36.2,48L48.5,46.2Z" />
+    <!-- Top pointer indicator -->
+    <path
+        android:fillColor="#FF06D6A0"
+        android:pathData="M48,20L60,20L54,31Z" />
+</vector>

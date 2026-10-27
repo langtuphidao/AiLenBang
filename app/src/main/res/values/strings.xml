@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ai Lên Bảng?</string>
+    <string name="app_subtitle">Random Học Sinh Bằng Mini-Game 2D</string>
+    <string name="btn_start">Bắt đầu</string>
+    <string name="btn_manage_classes">Quản lý lớp</string>
+    <string name="btn_history">Lịch sử</string>
+    <string name="btn_minigame_collection">Bộ sưu tập mini-game</string>
+    <string name="btn_settings">Cài đặt</string>
+    <string name="btn_pick_now">Chọn người ngay</string>
+    <string name="btn_play_minigame">Chơi mini-game</string>
+    <string name="btn_change_minigame">Đổi mini-game</string>
+    <string name="btn_class_roster">Danh sách lớp</string>
+    <string name="btn_undo_last">Hoàn tác lượt gần nhất</string>
+    <string name="btn_answered">Đã trả bài</string>
+    <string name="btn_not_answered">Chưa trả bài</string>
+    <string name="btn_absent">Vắng mặt</string>
+    <string name="btn_skip_turn">Bỏ qua lượt</string>
+    <string name="btn_next_student">Gọi người tiếp theo</string>
+    <string name="btn_back_to_class">Về lớp</string>
+    <string name="btn_about_author">Giới thiệu tác giả</string>
+    <string name="author_name">AnonyViet.Com</string>
+</resources>

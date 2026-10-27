@@ -1,0 +1,8 @@
+{
+  "name": "Ai Lên Bảng?",
+  "description": "Ứng dụng chọn ngẫu nhiên học sinh lên bảng trả bài bằng hệ thống mini-game 2D vui nhộn, công bằng và hoàn toàn offline dành cho giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
